@@ -1,6 +1,7 @@
 # Primeiro trabalho
 
-Prazo: 28 de março. Grupo de 3 alunos
+Prazo: 28 de março. Grupo de 3 alunos.
+Prazo estendido para 2 de abril.
 
 ## Parte 1
 
